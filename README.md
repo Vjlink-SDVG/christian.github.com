@@ -8,7 +8,7 @@ Ich interessiere mich für **Künstliche Intelligenz 🤖**, **Datenanalyse 📊
 ## 🚀 Über mich
 
 - 🎓 Schulabschluss: Hauptschulabschluss  
-- 💡 Motivation: Ich lerne selbstständig Python, Datenanalyse und IT-Grundlagen  
+- 💡 Motivation: Ich lerne selbstständig Datenanalyse und IT-Grundlagen  
 - 📍 Standort: Drolshagen, Deutschland  
 - 🧠 Interessen: KI, Automatisierung, Datenvisualisierung
 
@@ -16,7 +16,7 @@ Ich interessiere mich für **Künstliche Intelligenz 🤖**, **Datenanalyse 📊
 
 ## 📄 Lebenslauf
 
-📥 **Download:** [Lebenslauf 1.0.pdf](./Lebenslauf 1.0.pdf)
+📥 **Download:** [Lebenslauf1.0.pdf](./Lebenslauf1.0.pdf)
 
 ---
 
