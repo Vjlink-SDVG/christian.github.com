@@ -16,7 +16,7 @@ Ich interessiere mich für **Künstliche Intelligenz 🤖**, **Datenanalyse 📊
 
 ## 📄 Lebenslauf
 
-📥 **Download:** [Lebenslauf 1.0 .pdf](./Lebenslauf 1.0 .pdf)
+📥 **Download:** [Lebenslauf 1.0.pdf](./Lebenslauf 1.0.pdf)
 
 ---
 
