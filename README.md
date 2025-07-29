@@ -23,6 +23,6 @@ Ich interessiere mich für **Künstliche Intelligenz 🤖**, **Datenanalyse 📊
 ## 📬 Kontakt
 
 - 📧 E-Mail: kriskostenko04@gmail.com  
-- 🌐 Portfolio-Website: [https://vjlink-sdvg.github.io/christian.github.com/](https://deinname.github.io)
+- 🌐 Portfolio-Website: [https://vjlink-sdvg.github.io/christian.github.com](https://vjlink-sdvg.github.io/christian.github.com)
 
 ---
