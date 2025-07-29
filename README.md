@@ -18,6 +18,7 @@ Ich interessiere mich für **Künstliche Intelligenz 🤖**, **Datenanalyse 📊
 | Projekt | Beschreibung | Link |
 |--------|--------------|------|
 | ⚙️ **Rechner** | Einfach Website-Rechner | [🔗 GitHub-Projekt 1](https://vjlink-sdvg.github.io/Mein-Rechner/) |
+| ⚙️ **Snake Game** | Website-Spiel | [🔗 GitHub-Projekt 2](https://vjlink-sdvg.github.io/Snake-Game/) |
 
 ---
 ## 📄 Lebenslauf
