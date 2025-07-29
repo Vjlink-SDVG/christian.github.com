@@ -7,7 +7,7 @@ Ich interessiere mich für **Künstliche Intelligenz 🤖**, **Datenanalyse 📊
 
 ## 🚀 Über mich
 
-- 🎓 Schulabschluss: Hauptschulabschluss  
+- 🎓 Schulabschluss: Hauptschulabschluss nach 10 Klassen  
 - 💡 Motivation: Ich lerne selbstständig Unreal Engine 5, Datenanalyse und IT-Grundlagen  
 - 📍 Standort: Drolshagen, Deutschland  
 - 🧠 Interessen: KI, Automatisierung, Datenvisualisierung
