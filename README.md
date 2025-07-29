@@ -13,7 +13,13 @@ Ich interessiere mich für **Künstliche Intelligenz 🤖**, **Datenanalyse 📊
 - 🧠 Interessen: KI, Automatisierung, Datenvisualisierung
 
 ---
+## 🛠️ Projekte
 
+| Projekt | Beschreibung | Link |
+|--------|--------------|------|
+| ⚙️ **Rechner** | Einfach Website-Rechner | [🔗 GitHub-Projekt 1](https://vjlink-sdvg.github.io/Mein-Rechner/) |
+
+---
 ## 📄 Lebenslauf
 
 📥 **Download:** [Lebenslauf.pdf](./Lebenslauf.pdf)
